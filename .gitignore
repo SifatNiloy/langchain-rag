@@ -1,0 +1,7 @@
+.env
+chroma_*
+chroma
+.DS_Store
+chromadb-env
+.venv
+
